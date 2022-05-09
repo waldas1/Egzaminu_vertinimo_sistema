@@ -1,0 +1,25 @@
+[ {
+  "id" : 453,
+  "username" : "petras",
+  "password" : "pet",
+  "name" : "Petras",
+  "surname" : "Petraitis",
+  "role" : "studentas",
+  "grade" : 0
+}, {
+  "id" : 372,
+  "username" : "andrius",
+  "password" : "adr",
+  "name" : "Andrius",
+  "surname" : "Baltrunas",
+  "role" : "destytojas",
+  "grade" : 0
+}, {
+  "id" : 733,
+  "username" : "waldas",
+  "password" : "wal",
+  "name" : "Valdemar",
+  "surname" : "Junevic",
+  "role" : "studentas",
+  "grade" : 0
+} ]

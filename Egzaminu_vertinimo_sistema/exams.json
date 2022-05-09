@@ -1,0 +1,10 @@
+[ {
+  "id" : 837,
+  "title" : "Matematika",
+  "type" : "testas",
+  "exams" : [ {
+    "question" : "kiek bus 2*2?",
+    "answers" : [ "1. 2", "2. 4" ],
+    "correctAnswer" : "2"
+  } ]
+} ]
